@@ -288,7 +288,7 @@ function App() {
       <footer style={{ textAlign: 'center', padding: '2rem 1rem', color: 'var(--text-light)', fontSize: '0.85rem' }}>
         <p>
           <strong>Demo Only</strong> — Not for actual eligibility determinations<br />
-          Part of the <a href="https://github.com/mn-bakeoff-demo" style={{ color: 'var(--primary)' }}>MN Bake-Off Demo</a>
+          Part of the <a href="https://github.com/mes-bakeoff-demo" style={{ color: 'var(--primary)' }}>MN Bake-Off Demo</a>
         </p>
       </footer>
     </div>
