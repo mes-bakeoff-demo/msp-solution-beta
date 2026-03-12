@@ -1,10 +1,12 @@
 # MSP Solution: Beta
 
-> 🍰 **Vendor Beta's Approach** — Interactive Decision Tree
+**Vendor Beta's Approach** — Interactive Decision Tree
+
+**Backlog Item:** [#1 MSP Auto-Enrollment](https://github.com/mes-bakeoff-demo/mes-modernization/issues/1)
 
 ## Live Demo
 
-👉 **[Try it here](https://mes-bakeoff-demo.github.io/msp-solution-beta)**
+[Try it here](https://mes-bakeoff-demo.github.io/msp-solution-beta)
 
 ---
 
@@ -143,4 +145,4 @@ MIT — Use freely, adapt as needed.
 
 ---
 
-*Built for the Minnesota MES Bake-Off Demo*
+*Built for the [MES Bake-Off Demo](https://github.com/mes-bakeoff-demo) — see [Issue #1](https://github.com/mes-bakeoff-demo/mes-modernization/issues/1) for requirements*
